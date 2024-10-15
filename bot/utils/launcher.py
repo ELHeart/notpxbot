@@ -23,7 +23,7 @@ art_work = """
 888   Y8888 Y88..88P Y88b.  888        888 .d8""8b. Y8b.     888 
 888    Y888  "Y88P"   "Y888 888        888 888  888  "Y8888  888 
                                                                  
-                                                                 by Surinity                                    
+                                                                 by EL HEART                                 
 """
 
 version = "      accounts.json edition"
